@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tennis Training</title>
+    <style>
+        center{
+            border: 18px solid limegreen;
+            font-size: 360%;
+        }
+        h1{
+            border:18px solid limegreen;
+            font-size: 200%
+        }
+        p{
+            text-align: left;
+            font-size: 160%;
+        }
+        </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <center>Tennis:The Way To Play</center>
+        <p>Hello. Today, we are going to learn how to play how to play tennis. If we </p>
+    </div>
+</body>
+</html>
